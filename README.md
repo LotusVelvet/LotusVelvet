@@ -1,4 +1,14 @@
-## Hi there 👋
+# Introduction
+
+Hi! I'm **Li Yijie**, a Bachelor of Computer Science (Software Engineering) student at **Universiti Malaya**.
+
+- **Matric Number:** 23094538
+- **Course:** Software Maintenance and Evolution (WIF3005)
+- **University:** Universiti Malaya
+- **Interests:** Programming, technology, and software development.
+- **Course Expectations:** I hope to learn how to maintain, fix, and improve existing software and gain practical experience using GitHub.
+
+
 
 <!--
 **LotusVelvet/LotusVelvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
